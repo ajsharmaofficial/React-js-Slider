@@ -1,5 +1,9 @@
 {
-  "name": "react-js-slider",
+<<<<<<< HEAD
+
+=======
+  "name": "react-slider-js",
+>>>>>>> 0ce7ef75dd1684d3f7423284fce02af9ccfb57a6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
